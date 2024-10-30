@@ -4,9 +4,9 @@
 	{
 		"controlName"								"EditablePanel"
 		"fieldName"									"Speed_Anchor"
-		"xpos"										"cs-0.5"
+		"xpos"										"c-92"
 		"ypos"										"rs1-80"
-		"ypos_minmode"								"c115"
+		"ypos_minmode"								"c80"
 		"zpos"										"0"
 		"wide"										"0"
 		"tall"										"12"
