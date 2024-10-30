@@ -414,7 +414,11 @@
 			"5"
 			{
 				"name"										"Verdana"
+<<<<<<< Updated upstream
 				"tall"										"8"
+=======
+				"tall"										"9"
+>>>>>>> Stashed changes
 				"dropshadow"								"1"
 				"antilias"									"1"
 			}
