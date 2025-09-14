@@ -4,8 +4,8 @@
 	{
 		"ControlName"								"EditablePanel"
 		"fieldName"									"HudChat"
-		"xpos"										"2"
-		"ypos"										"45"
+		"xpos"										"222"
+		"ypos"										"28"
 		"zpos"										"9"
 		"wide"										"220"
 		"tall"										"90"
